@@ -1,0 +1,4 @@
+com\springmvc\model\Customer.class
+com\springmvc\config\AppConfig.class
+com\springmvc\config\SpringMvcDispatcherServletInitializer.class
+com\springmvc\controller\CustomerController.class

@@ -1,0 +1,4 @@
+com\hello\model\controller\HelloWorldController.class
+com\hello\model\HelloWorld.class
+com\hello\config\AppConfig.class
+com\hello\config\SpringMvcDispatcherServletInitializer.class
